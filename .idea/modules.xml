@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/JS.iml" filepath="$PROJECT_DIR$/JS.iml" />
       <module fileurl="file://$PROJECT_DIR$/laba1/laba1.iml" filepath="$PROJECT_DIR$/laba1/laba1.iml" />
       <module fileurl="file://$PROJECT_DIR$/laba10/laba10.iml" filepath="$PROJECT_DIR$/laba10/laba10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/laba11/laba11.iml" filepath="$PROJECT_DIR$/laba11/laba11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/laba12/laba12.iml" filepath="$PROJECT_DIR$/laba12/laba12.iml" />
       <module fileurl="file://$PROJECT_DIR$/laba2/laba2.iml" filepath="$PROJECT_DIR$/laba2/laba2.iml" />
       <module fileurl="file://$PROJECT_DIR$/laba3/laba3.iml" filepath="$PROJECT_DIR$/laba3/laba3.iml" />
       <module fileurl="file://$PROJECT_DIR$/laba5/laba5.iml" filepath="$PROJECT_DIR$/laba5/laba5.iml" />
@@ -12,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/laba7/laba7.iml" filepath="$PROJECT_DIR$/laba7/laba7.iml" />
       <module fileurl="file://$PROJECT_DIR$/laba8/laba8.iml" filepath="$PROJECT_DIR$/laba8/laba8.iml" />
       <module fileurl="file://$PROJECT_DIR$/laba9/laba9.iml" filepath="$PROJECT_DIR$/laba9/laba9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project/project.iml" filepath="$PROJECT_DIR$/project/project.iml" />
     </modules>
   </component>
 </project>
